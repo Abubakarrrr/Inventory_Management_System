@@ -1,0 +1,5 @@
+pen 1 stationary 1none$
+pencil 2 stationary 2abubakar amjad$none$
+boardmarker 3 stationary 2ali amjad$faizan abbass$
+gelpen 4 stationary 1ali$
+ballpoint 5 stationary 3qateef$ahmed$hasan$
