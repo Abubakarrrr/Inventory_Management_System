@@ -1,9 +1,8 @@
 # Inventory_Management_System
- Inventory_Management_System made in C++ with fiile handling concepts
+ Inventory_Management_System made in C++ with file handling concepts
  
-My Semester Project of Programming fundamentals 2nd semester
 Inventory management system consists of following features:
-1)Add inventory items
+1) Add inventory items
 2) View all inventory items 
 3) Search inventory item
 4) Edit inventory item (Including item count)
